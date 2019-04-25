@@ -1,5 +1,0 @@
-logging:
-  level:
-    ROOT: INFO
-    org.springframework: INFO
-    com.technical.challenge: DEBUG
